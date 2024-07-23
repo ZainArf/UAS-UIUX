@@ -1,0 +1,129 @@
+<div>
+    <link href="./c_home.css" rel="stylesheet" />
+    <div class="c_home-frame">
+      <div class="c_home-frame1"></div>
+      <img
+        src="./assets/138203.svg"
+        alt="rectangle"
+        width="1440"
+        height="215"
+        class="c_home-rectangle"
+        />
+      <img
+        src="./assets/138204.svg"
+        alt="rectangle"
+        width="822"
+        height="49"
+        class="c_home-rectangle01"
+        />
+      <div class="c_home-text"><p class="c_home-text01">|</p></div>
+      <img
+        src="./assets/138206.png"
+        alt="rectangle"
+        width="222"
+        height="55"
+        class="c_home-rectangle02"
+        />
+      <div class="c_home-frame2">
+        <div class="c_home-instance">
+          <img
+            src="./assets/I1382117716.svg"
+            alt="vector"
+            width="99"
+            height="55"
+            class="c_home-vector"
+            />
+          <div class="c_home-text02"><p class="c_home-text03">Home</p></div>
+        </div>
+        <div class="c_home-instance1">
+          <img
+            src="./assets/I1382127715.svg"
+            alt="rectangle"
+            width="154"
+            height="55"
+            class="c_home-rectangle03"
+            />
+          <div class="c_home-text04">
+            <p class="c_home-text05">Pesta Eropa</p>
+          </div>
+        </div>
+        <div class="c_home-instance2">
+          <img
+            src="./assets/I1382137717.svg"
+            alt="rectangle"
+            width="98"
+            height="55"
+            class="c_home-rectangle04"
+            />
+          <div class="c_home-text06"><p class="c_home-text07">Bola</p></div>
+        </div>
+        <div class="c_home-instance3">
+          <img
+            src="./assets/I1382147718.svg"
+            alt="rectangle"
+            width="98"
+            height="55"
+            class="c_home-rectangle05"
+            />
+          <div class="c_home-text08"><p class="c_home-text09">Ole</p></div>
+        </div>
+        <div class="c_home-instance4">
+          <img
+            src="./assets/I1382157719.svg"
+            alt="rectangle"
+            width="110"
+            height="55"
+            class="c_home-rectangle06"
+            />
+          <div class="c_home-text10"><p class="c_home-text11">Olimpik</p></div>
+        </div>
+        <div class="c_home-instance5">
+          <img
+            src="./assets/I1382167723.svg"
+            alt="rectangle"
+            width="151"
+            height="55"
+            class="c_home-rectangle07"
+            />
+          <div class="c_home-text12"><p class="c_home-text13">Lifestyle</p></div>
+        </div>
+        <div class="c_home-instance6">
+          <img
+            src="./assets/I1382177720.svg"
+            alt="rectangle"
+            width="150"
+            height="55"
+            class="c_home-rectangle08"
+            />
+          <div class="c_home-text14"><p class="c_home-text15">Komunitas</p></div>
+        </div>
+        <div class="c_home-instance7">
+          <img
+            src="./assets/I1382187721.svg"
+            alt="rectangle"
+            width="98"
+            height="55"
+            class="c_home-rectangle09"
+            />
+          <div class="c_home-text16"><p class="c_home-text17">Video</p></div>
+        </div>
+        <div class="c_home-instance8">
+          <img
+            src="./assets/I1382197722.svg"
+            alt="rectangle"
+            width="152"
+            height="55"
+            class="c_home-rectangle10"
+            />
+          <div class="c_home-text18"><p class="c_home-text19">Klasemen</p></div>
+        </div>
+      </div>
+      <img
+        src="./assets/138220.svg"
+        alt="frame"
+        width="24"
+        height="24"
+        class="c_home-frame3"
+        />
+    </div>
+  </div>
